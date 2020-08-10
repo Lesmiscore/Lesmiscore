@@ -3,7 +3,7 @@
 
 ### みょるるんはいいぞ
 https://twitter.com/suzuib     
-https://twitter.com/WC_Myoru
+~~https://twitter.com/WC_Myoru~~ (7/26で卒業)
 
 <!--
 **nao20010128nao/nao20010128nao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
