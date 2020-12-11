@@ -1,8 +1,8 @@
 ### nao20010128nao
 :house_with_garden:    
-![](https://github-readme-stats.vercel.app/api?username=nao20010128nao&theme=dark&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nao20010128nao&theme=dark&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=nao20010128nao&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=nao20010128nao&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nao20010128nao&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=nao20010128nao)
 
 
 ### みょるるんはいいぞ
