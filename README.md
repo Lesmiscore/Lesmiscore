@@ -8,6 +8,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nao20010128nao&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=nao20010128nao)
 
+### Projects currently working on
+- https://github.com/nao20010128nao/ytdl-patched
+    - https://github.com/nao20010128nao/bookish-octo-barnacle (WIP for deprecation)
+- https://github.com/nao20010128nao/WalletGenerator.net
+
 
 ### みょるるんはいいぞ
 https://twitter.com/suzuib     
