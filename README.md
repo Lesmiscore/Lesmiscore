@@ -10,7 +10,6 @@
 
 ### Projects currently working on
 - https://github.com/nao20010128nao/ytdl-patched
-    - https://github.com/nao20010128nao/bookish-octo-barnacle (WIP for deprecation)
 - https://github.com/nao20010128nao/WalletGenerator.net
 
 
