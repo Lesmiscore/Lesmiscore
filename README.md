@@ -9,25 +9,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=nao20010128nao)
 
 ### Projects currently working on
-- https://github.com/nao20010128nao/ytdl-patched
+- https://github.com/ytdl-patched/ytdl-patched
 - https://github.com/nao20010128nao/WalletGenerator.net
 
 
 ### みょるるんはいいぞ
-https://twitter.com/suzuib     
-~~https://twitter.com/WC_Myoru~~ (7/26で卒業)
-
-<!--
-**nao20010128nao/nao20010128nao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://twitter.com/suzuib
