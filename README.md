@@ -11,6 +11,7 @@
 ### Projects currently working on
 - https://github.com/ytdl-patched/ytdl-patched
 - https://github.com/nao20010128nao/WalletGenerator.net
+- https://github.com/nao20010128nao/wapysm
 
 
 ### みょるるんはいいぞ
