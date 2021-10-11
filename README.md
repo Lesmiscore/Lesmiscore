@@ -1,5 +1,15 @@
 ### nao20010128nao
-:house_with_garden:    
+<!--
+ENG (original): A student from Japan, working on random thing
+JPN (reference): 適当に何かやってる日本の学生
+-->
+Un étudiant du Japon, travaillant sur un truc aléatoire
+
+<!--
+ENG (original): Eh, I speak French? No.
+JPN (reference): え? フランス語話せるって? んな訳ねーだろ
+-->
+Eh, ich spreche Französisch? Nein.
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/nao20010128nao)](https://keybase.io/nao20010128nao)
 [![Keybase BTC](https://img.shields.io/keybase/btc/nao20010128nao)](https://keybase.io/nao20010128nao)
@@ -9,9 +19,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=nao20010128nao)
 
 ### Projects currently working on
-- https://github.com/ytdl-patched/ytdl-patched
-- https://github.com/nao20010128nao/WalletGenerator.net
-- https://github.com/nao20010128nao/wapysm
+- [ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
+- [wapysm](https://github.com/nao20010128nao/wapysm) - A Python-native WASM interpreter.
+- [WalletGenerator](https://github.com/nao20010128nao/WalletGenerator.net) - Paper wllet generator for some cryptocurrencies
 
 
 ### みょるるんはいいぞ
