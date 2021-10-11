@@ -11,17 +11,19 @@ JPN (reference): え? フランス語話せるって? んな訳ねーだろ
 -->
 Eh, ich spreche Französisch? Nein.
 
+
+### Projects currently working on
+- [ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
+- [wapysm](https://github.com/nao20010128nao/wapysm) - A Python-native WASM interpreter.
+- [WalletGenerator](https://github.com/nao20010128nao/WalletGenerator.net) - Paper wllet generator for some cryptocurrencies
+
+### Banners and Stats
 [![Keybase PGP](https://img.shields.io/keybase/pgp/nao20010128nao)](https://keybase.io/nao20010128nao)
 [![Keybase BTC](https://img.shields.io/keybase/btc/nao20010128nao)](https://keybase.io/nao20010128nao)
 
 ![](https://github-readme-stats.vercel.app/api?username=nao20010128nao&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nao20010128nao&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=nao20010128nao)
-
-### Projects currently working on
-- [ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
-- [wapysm](https://github.com/nao20010128nao/wapysm) - A Python-native WASM interpreter.
-- [WalletGenerator](https://github.com/nao20010128nao/WalletGenerator.net) - Paper wllet generator for some cryptocurrencies
 
 
 ### みょるるんはいいぞ
