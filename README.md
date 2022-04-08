@@ -24,6 +24,7 @@ Eh, ich spreche Französisch? Nein.
 ![](https://github-readme-stats.vercel.app/api?username=lesmiscore&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lesmiscore&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=lesmiscore)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lesmiscore)
 
 
 ### みょるるんはいいぞ
