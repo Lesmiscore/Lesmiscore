@@ -14,7 +14,7 @@ Eh, ich spreche Französisch? Nein.
 
 ### Projects currently working on
 - [ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
-- [wapysm](https://github.com/lesmiscore/wapysm) - A Python-native WASM interpreter.
+- [TUAT Static Syllabus](https://github.com/tuat-static-syllabus/tuat-static-syllabus)
 - [WalletGenerator](https://github.com/lesmiscore/WalletGenerator.net) - Paper wllet generator for some cryptocurrencies
 
 ### Banners and Stats
