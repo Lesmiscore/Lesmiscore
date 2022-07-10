@@ -15,7 +15,7 @@ Eh, ich spreche Französisch? Nein.
 ### Projects currently working on
 - [ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
 - [TUAT Static Syllabus](https://github.com/tuat-static-syllabus/tuat-static-syllabus)
-- [WalletGenerator](https://github.com/lesmiscore/WalletGenerator.net) - Paper wllet generator for some cryptocurrencies
+- ~~[WalletGenerator](https://github.com/lesmiscore/WalletGenerator.net) - Paper wllet generator for some cryptocurrencies~~
 
 ### Banners and Stats
 [![Keybase PGP](https://img.shields.io/keybase/pgp/nao20010128nao)](https://keybase.io/nao20010128nao)
