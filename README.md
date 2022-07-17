@@ -1,6 +1,6 @@
 ### Lesmiscore
 
-Pronounciation: "le"(from "Lemon")-s-mi-"score" 
+Pronounciation: "le" (of "lemon")-s-mi-"score" 
 
 <!--
 ENG (original): A student from Japan, working on random thing
