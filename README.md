@@ -39,4 +39,4 @@ Eh, ich spreche Französisch? Nein.
 *4 This is mainly used username for my PCs. It's why I don't have to redact my username from logs
 
 ### みょるるんはいいぞ
-https://twitter.com/suzuib_
+[https://twitter.com/suzuib_](https://twitter.com/suzuib_)
